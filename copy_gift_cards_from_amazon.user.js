@@ -4,9 +4,10 @@
 // @description    ALlows for easy copying of gift cards purchased through Amazon to be added to a Simplify Shopping spreadsheet.
 // @match          *://egift.activationspot.com/*
 // @author         Anonymous
-// @version        1.0.0
+// @version        1.0.1
 // @updateURL      https://github.com/066570/script/raw/master/copy_gift_cards_from_amazon.user.js
 // @downloadURL    https://github.com/066570/script/raw/master/copy_gift_cards_from_amazon.user.js
+// @require        http://code.jquery.com/jquery-3.4.1.min.js
 // @run-at         document-end
 // @grant          unsafeWindow
 // ==/UserScript==
